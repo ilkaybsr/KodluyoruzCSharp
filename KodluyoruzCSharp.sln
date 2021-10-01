@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops", "loops\loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank Day5", "HackerRank Day5\HackerRank Day5.csproj", "{AC766AF3-FAE5-4BAB-9EF8-14ABCCCDB40E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While-Foreach", "While-Foreach\While-Foreach.csproj", "{E5155E2E-C0DF-4282-A3F4-F0B8C9BADC91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{AC766AF3-FAE5-4BAB-9EF8-14ABCCCDB40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC766AF3-FAE5-4BAB-9EF8-14ABCCCDB40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC766AF3-FAE5-4BAB-9EF8-14ABCCCDB40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5155E2E-C0DF-4282-A3F4-F0B8C9BADC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5155E2E-C0DF-4282-A3F4-F0B8C9BADC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5155E2E-C0DF-4282-A3F4-F0B8C9BADC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5155E2E-C0DF-4282-A3F4-F0B8C9BADC91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
