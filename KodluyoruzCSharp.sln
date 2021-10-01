@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operators", "operators\oper
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank Challenge2", "HackerRank Challenge2\HackerRank Challenge2.csproj", "{11F2DD08-BC42-4865-A3B2-D95BBBFD7272}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "typeconversions", "typeconversions\typeconversions.csproj", "{4614C549-D2FA-465E-8148-688224FF9F47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{11F2DD08-BC42-4865-A3B2-D95BBBFD7272}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11F2DD08-BC42-4865-A3B2-D95BBBFD7272}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11F2DD08-BC42-4865-A3B2-D95BBBFD7272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4614C549-D2FA-465E-8148-688224FF9F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4614C549-D2FA-465E-8148-688224FF9F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4614C549-D2FA-465E-8148-688224FF9F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4614C549-D2FA-465E-8148-688224FF9F47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
