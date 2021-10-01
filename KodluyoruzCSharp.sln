@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if-else", "if-else\if-else.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank Day3", "HackerRank Day3\HackerRank Day3.csproj", "{6DA38302-0C2B-4FC2-BB22-5102BBE10EFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-case", "switch-case\switch-case.csproj", "{63454AE2-9DBF-4004-BDC9-8587CB4964A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6DA38302-0C2B-4FC2-BB22-5102BBE10EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DA38302-0C2B-4FC2-BB22-5102BBE10EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DA38302-0C2B-4FC2-BB22-5102BBE10EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63454AE2-9DBF-4004-BDC9-8587CB4964A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63454AE2-9DBF-4004-BDC9-8587CB4964A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63454AE2-9DBF-4004-BDC9-8587CB4964A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63454AE2-9DBF-4004-BDC9-8587CB4964A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
