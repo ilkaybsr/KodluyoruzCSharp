@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank Day3", "HackerRa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-case", "switch-case\switch-case.csproj", "{63454AE2-9DBF-4004-BDC9-8587CB4964A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops", "loops\loops.csproj", "{734067AF-4053-43C5-94E9-02E4847D8772}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{63454AE2-9DBF-4004-BDC9-8587CB4964A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63454AE2-9DBF-4004-BDC9-8587CB4964A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63454AE2-9DBF-4004-BDC9-8587CB4964A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734067AF-4053-43C5-94E9-02E4847D8772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734067AF-4053-43C5-94E9-02E4847D8772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734067AF-4053-43C5-94E9-02E4847D8772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734067AF-4053-43C5-94E9-02E4847D8772}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
